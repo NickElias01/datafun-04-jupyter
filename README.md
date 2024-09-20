@@ -1,3 +1,11 @@
+In VS Code, edit your README.md file to record your commands, process, and notes.
+
+Use one hash followed by a space for the title.
+
+Use two hashes followed by a space to create second level headings.
+
+Use triple back tics on a line by themselves above and below to "fence" your code and commands.
+
 # datafun-04-jupyter
 
 ## How to Install and Run the Project
